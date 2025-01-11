@@ -2,3 +2,5 @@ Okay, the repository is ready.
 Second row added in github and commited
 
 Add some new rows for wfile changing and working in git gui
+
+add row for stashing
